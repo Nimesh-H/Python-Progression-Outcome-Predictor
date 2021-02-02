@@ -1,6 +1,7 @@
 # Python-Progression-Outcome-Predictor
 
 Student Version
+
 The program allows students to predict their progression outcome at the end of each academic year. 
 The program prompts for the number of credits at pass, defer and fail and then display the appropriate progression outcome for an individual student. 
 The program let the user know if credits are not in the range 0, 20, 40, 60, 80, 100 and 120. I.e., ‘Range error’ is displayed. 
